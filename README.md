@@ -3,6 +3,12 @@
 
 Для подключения необходимо:
 
+1. Включить автоматическое использование шаблонов
+
+![Screen4](https://user-images.githubusercontent.com/25642145/195063575-38cfc5d9-575c-4751-9297-9890d0b842eb.png)
+
+![Screen5](https://user-images.githubusercontent.com/25642145/195063597-ab200da7-6ec5-42e8-b242-845839ff9c4e.png)
+
 1. Открыть шаблоны в конфигураторе
 
 ![Screen1](https://user-images.githubusercontent.com/25642145/195062287-d03450dd-5529-4193-8076-2ab8a9046892.png)
